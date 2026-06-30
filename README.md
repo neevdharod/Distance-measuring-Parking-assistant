@@ -11,7 +11,7 @@ Onshape Link: https://cad.onshape.com/documents/cc1ac9be79cd2041f92b426b/w/98f04
 
 <img src="https://cdn.hackclub.com/019e9f5a-9071-78a3-b6b1-ab08870c826f/Screenshot%202026-06-06%204.52.48%20PM.png" alt="image"/>
 
-Video showing the electronic schematic: https://drive.google.com/file/d/1TGamX_frCV5nregDSjYgagFfzwFgWj95/view?usp=sharing
+Video showing the electronic schematic: https://youtu.be/rgYqHHMq25g
 
 # Key Features
 - LED light
