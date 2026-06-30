@@ -17,3 +17,18 @@ Video showing the electronic schematic: https://drive.google.com/file/d/1TGamX_f
 - LED light
 - Arduino Uno R3
 - Ultrasonic Sensor
+
+# Why/How
+
+I created this because I wanted to firstly learn more about Arduino, since this uses an arduino uno, I can learn alot on how it functions. This also broadens my scope of ultrasonic sensors, as I will be able to use that to help me. This is a no solder project, so I can play around with it and try different things.
+
+I will create this project in a couple of steps:
+1. Buy the components
+2. Connect the electronics together to confirm that they function.
+3. Create a program to run and checks distance and changes LED depending on the distance.
+4. Use a digital caliper to measure the sizes of the items, and adjust CAD, and print once adjusted
+5. Use screws and heat set inserts (which I already have) to mount the components.
+6. Close the component, cut the acrlyic, add it to the front, and that is your completed project.
+
+# Challenges
+One concern I might have is to for the CAD to fit the ultrasonic sensor correctly. I think my use of the digital caliper can mitigate/stop this issue.
