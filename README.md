@@ -32,3 +32,14 @@ I will create this project in a couple of steps:
 
 # Challenges
 One concern I might have is to for the CAD to fit the ultrasonic sensor correctly. I think my use of the digital caliper can mitigate/stop this issue.
+
+# BOM
+| Item                              | Link                                                  | Cost  |
+|-----------------------------------|-------------------------------------------------------|-------|
+| Arduino Uno R3                    | https://www.aliexpress.com/item/3256802823070160.html | 6.32  |
+| Ultrasonic Sensor                 | HC-SR04 distance sensor module                        | 2.04  |
+| Opaque acrylic                    | White frosted acrylic sheet                           | 9.79  |
+| LED light                         | WS2812B 5V addressable LED strip                      | 3.64  |
+| Arduino Uno Screw Terminal Shield | UNO R3 screw terminal shield                          | 5.16  |
+|                                   | Total                                                 | 26.95 |
+
